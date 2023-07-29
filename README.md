@@ -38,7 +38,7 @@ Enquanto estou em busca de oportunidades de emprego no desenvolvimento de softwa
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
 ![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=8E2DE2)
-![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=white&labelColor=8E2DE2) 
+![Insomnia](https://img.shields.io/badge/Insomnia-grey?style=for-the-badge&logo=insomnia&logoColor=white&labelColor=8E2DE2) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=8E2DE2)
 <br>
 ![bootstrap](https://img.shields.io/badge/-bootstrap-grey?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=8E2DE2)
@@ -52,6 +52,8 @@ Enquanto estou em busca de oportunidades de emprego no desenvolvimento de softwa
 <br>
 ![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=8E2DE2)
 ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
+
+![Stylus](https://img.shields.io/badge/stylus-grey.svg?style=for-the-badge&logo=stylus&logoColor=white&labelColor=8E2DE2) 
 
 ## License
 
