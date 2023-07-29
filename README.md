@@ -33,28 +33,22 @@ const anderson = {
 ```
 
 # 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=black&labelColor=21D19F)
-![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=black&labelColor=21D19F)
-![Insomnia](https://img.shields.io/badge/Insomnia-grey?style=for-the-badge&logo=insomnia&logoColor=black&labelColor=21D19F) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=black&labelColor=21D19F)
-![TypeScript](https://img.shields.io/badge/typescript-grey.svg?style=for-the-badge&logo=typescript&logoColor=black&labelColor=21D19F)
-![Next JS](https://img.shields.io/badge/Next-grey?style=for-the-badge&logo=next.js&logoColor=black&labelColor=21D19F) 
-<br>
-![Figma](https://img.shields.io/badge/figma-grey.svg?style=for-the-badge&logo=figma&logoColor=black&labelColor=21D19F) 
-![bootstrap](https://img.shields.io/badge/-bootstrap-grey?style=for-the-badge&logo=bootstrap&logoColor=black&labelColor=21D19F)
-![Styled Components](https://img.shields.io/badge/styled--components-grey?style=for-the-badge&logo=styled-components&logoColor=black&labelColor=21D19F)
-![node](https://img.shields.io/badge/-node-grey?style=for-the-badge&logo=node.js&logoColor=black&labelColor=21D19F)
-<br>
-![Trello](https://img.shields.io/badge/Trello-grey.svg?style=for-the-badge&logo=Trello&logoColor=black&labelColor=21D19F)
-![mongodb](https://img.shields.io/badge/-mongodb-grey?style=for-the-badge&logo=mongodb&logoColor=black&labelColor=21D19F)
-![firebase](https://img.shields.io/badge/-firebase-grey?style=for-the-badge&logo=firebase&logoColor=black&labelColor=21D19F)
-![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=black&labelColor=21D19F)
-![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=black&labelColor=21D19F)
-<br>
-![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=black&labelColor=21D19F)
-![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=black&labelColor=21D19F)
-![Docker](https://img.shields.io/badge/docker-grey.svg?style=for-the-badge&logo=docker&logoColor=black&labelColor=21D19F)
-![Stylus](https://img.shields.io/badge/stylus-grey.svg?style=for-the-badge&logo=stylus&logoColor=black&labelColor=21D19F) 
+ 
+<div align="center">
+  <img alt="Js" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="React" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img alt="HTML" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="CSS" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="Jest" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
+  <img alt="redux" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+  <img alt="docker" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+  <img alt="mysql" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img alt="nodejs" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img alt="sequelize" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
+  <img alt="typescript" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+  <img alt="rtl" height="45" width="55" src="https://testing-library.com/img/octopus-64x64.png" />
+  <img alt="mong-db" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+</div>
 
 ## ⚡ Current Project
 
