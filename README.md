@@ -1,5 +1,8 @@
 # Anderson - Full Stack Developer and Tech Enthusiast.
 
+## Fun Fact
+> "Existem duas maneiras de escrever programas sem erros; apenas a terceira funciona." - Anderson
+> 
 ```typescript
 const anderson = {
     pronouns: "He" | "Him",
@@ -26,10 +29,6 @@ const anderson = {
 ## Current Project
 
 Enquanto estou em busca de oportunidades de emprego no desenvolvimento de software, estou focado em aprimorar minhas habilidades técnicas e teóricas para estar pronto para enfrentar os desafios que surgirem na minha futura carreira.
-
-## Fun Fact
-
-> "Existem duas maneiras de escrever programas sem erros; apenas a terceira funciona." - Anderson
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_anderson.jhonatan/)
