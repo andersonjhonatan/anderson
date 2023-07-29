@@ -55,7 +55,7 @@ const anderson = {
 
 Enquanto estou em busca de oportunidades de emprego no desenvolvimento de software, estou focado em aprimorar minhas habilidades técnicas e teóricas para estar pronto para enfrentar os desafios que surgirem na minha futura carreira.
 
-![Sanket's github stats](https://github-readme-stats.vercel.app/api?username=sanket9006&show_icons=true&theme=radical)
+![Sanket's github stats](https://github-readme-stats.vercel.app/api?username=andersonjhonatan9006&show_icons=true&theme=radical)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_anderson.jhonatan/)
