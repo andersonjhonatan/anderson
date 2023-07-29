@@ -1,4 +1,3 @@
-# <p align='center'> Anderson - Full Stack Developer and Tech Enthusiast</p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8E2DE2&height=180&section=header&text=Anderson%20Full%20Stack&fontSize=34&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
