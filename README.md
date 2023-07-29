@@ -22,6 +22,7 @@ const anderson = {
     currentProject: "I am developing Extension for NetSuite using SuiteScript2.0",
     funFact: "There are two ways to write error-free programs; only the third one works"
 }
+```
 
 ## Current Project
 
