@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8E2DE2&height=180&section=header&text=Anderson%20-%20Full%20Stack%20Developer%20&fontSize=34&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=21D19F&height=180&section=header&text=Anderson%20-%20Full%20Stack%20Developer%20&fontSize=34&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
 >  <p align='center'>"Existem duas maneiras de escrever programas sem erros; apenas a terceira funciona." - Anderson</p>
 
