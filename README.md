@@ -42,9 +42,8 @@ Enquanto estou em busca de oportunidades de emprego no desenvolvimento de softwa
 ![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=8E2DE2)
 <br>
 ![bootstrap](https://img.shields.io/badge/-bootstrap-grey?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=8E2DE2)
-![Styled Components](https://img.shields.io/badge/styled--components-grey?style=for-the-badge&logo=styled-components.js&logoColor=white&labelColor=8E2DE2)
+![Styled Components](https://img.shields.io/badge/styled--components-grey?style=for-the-badge&logo=styled-components&logoColor=white&labelColor=8E2DE2)
 ![node](https://img.shields.io/badge/-node-grey?style=for-the-badge&logo=node.js&logoColor=white&labelColor=8E2DE2)
-
 <br>
 ![mongodb](https://img.shields.io/badge/-mongodb-grey?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=8E2DE2)
 ![firebase](https://img.shields.io/badge/-firebase-grey?style=for-the-badge&logo=firebase&logoColor=white&labelColor=8E2DE2)
