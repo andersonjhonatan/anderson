@@ -26,7 +26,7 @@ const anderson = {
         databases: ["mongo", "MySql"],
         misc: ["Firebase"]
     },
-    architecture: ["Serverless Architecture", "web applications","page applications"],
+    architecture: ["Serverless Architecture", "web applications"],
     funFact: "There are two ways to write error-free
               programs; only the third one works"
 }
