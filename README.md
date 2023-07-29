@@ -2,7 +2,6 @@
 
 >  <p align='center'>"Existem duas maneiras de escrever programas sem erros; apenas a terceira funciona." - Anderson</p>
 > 
-<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
 ```typescript
 const anderson = {
