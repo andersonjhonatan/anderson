@@ -1,6 +1,6 @@
 # Anderson - Full Stack Developer and Tech Enthusiast.
 
-## Fun Fact
+                                            ## Fun Fact
 > "Existem duas maneiras de escrever programas sem erros; apenas a terceira funciona." - Anderson
 > 
 ```typescript
