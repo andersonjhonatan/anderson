@@ -57,8 +57,10 @@ const anderson = {
 Por enquanto estou em busca de oportunidades de emprego no desenvolvimento de software, estou focado em aprimorar minhas habilidades técnicas e teóricas para estar pronto para enfrentar os desafios que surgirem na minha futura carreira.
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_anderson.jhonatan/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-jhonatan/)
+<div align="center">
+  <a href = "mailto:ajhonatan76@gmail.com"><img height="35" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="[https://www.linkedin.com/in/anderson-jhonatan/](https://www.linkedin.com/in/anderson-jhonatan/)" target="_blank"><img height="35" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 
 ## License
 
