@@ -1,4 +1,4 @@
-# Anderson - Software Developer and Tech Enthusiast
+# Anderson - Full Stack Developer and System Analyst
 
 ```typescript
 const anderson = {
