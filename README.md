@@ -4,7 +4,7 @@
 const anderson = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Typescript", "Python", "Java"],
-    askMeAbout: ["web dev", "tech", "app dev"],
+    askMeAbout: ["web dev", "tech", "app dev", "photography"],
     technologies: {
         frontEnd: {
             js: ["React", "NextJS"],
@@ -21,21 +21,26 @@ const anderson = {
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentProject: "I am developing Extension for NetSuite using SuiteScript2.0",
     funFact: "There are two ways to write error-free programs; only the third one works"
-};````
+};
 
-Current Project
+## Current Project
+
 Enquanto estou em busca de oportunidades de emprego no desenvolvimento de software, estou focado em aprimorar minhas habilidades técnicas e teóricas para estar pronto para enfrentar os desafios que surgirem na minha futura carreira.
 
-Fun Fact
-"Existem duas maneiras de escrever programas sem erros; apenas a terceira funciona." - Anderson
+## Fun Fact
 
-Contact
-E-mail: ajhonatan76@gmail.com
-GitHub: @andersonjhonatan
-Linkedin: @anderson-jhonatan
-How to Reach Me
+> "Existem duas maneiras de escrever programas sem erros; apenas a terceira funciona." - Anderson
+
+## Contact
+
+- E-mail: ajhonatan76@gmail.com
+- GitHub: [@andersonjhonatan](https://github.com/andersonjhonatan)
+- Linkedin: [@anderson-jhonatan](https://www.linkedin.com/in/anderson-jhonatan/)
+
+## How to Reach Me
+
 Sinta-se à vontade para entrar em contato comigo se tiver alguma dúvida, sugestão ou apenas quiser se conectar! Estou sempre aberto a aprender e colaborar com outras pessoas.
 
-License
-Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para obter mais detalhes.
+## License
 
+Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter mais detalhes.
