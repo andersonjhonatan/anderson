@@ -66,4 +66,4 @@ Por enquanto estou em busca de oportunidades de emprego no desenvolvimento de so
 
 Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter mais detalhes.
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=8E2DE2&height=150&section=header&text=Muito%20obrigado!&fontSize=45" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=8E2DE2&height=60&section=header&text=Muito%20obrigado!&fontSize=45" />
