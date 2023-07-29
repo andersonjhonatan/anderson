@@ -1,4 +1,4 @@
-# Anderson - Full Stack Developer and System Analyst
+# Anderson - um desenvolvedor de software com paixão por desenvolvimento web, tecnologia, desenvolvimento de aplicativos e fotografia. Gosto de explorar e aprender sobre novas tecnologias e frameworks.
 
 ```typescript
 const anderson = {
@@ -22,3 +22,27 @@ const anderson = {
     currentProject: "I am developing Extension for NetSuite using SuiteScript2.0",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
+
+
+## Current Project
+
+Enquanto estou em busca de oportunidades de emprego no desenvolvimento de software, estou focado em aprimorar minhas habilidades técnicas e teóricas para estar pronto para enfrentar os desafios que surgirem na minha futura carreira.
+
+## Fun Fact
+
+> "Existem duas maneiras de escrever programas sem erros; apenas a terceira funciona." - Anderson
+
+## Contact
+
+- E-mail: ajhonatan76@gmail.com
+- GitHub: [@andersonjhonatan](https://github.com/andersonjhonatan)
+- Linkedin: [@anderson-jhonatan](https://github.com/anderson-jhonatan)
+
+## How to Reach Me
+
+Sinta-se à vontade para entrar em contato comigo se tiver alguma dúvida, sugestão ou apenas quiser se conectar! Estou sempre aberto a aprender e colaborar com outras pessoas.
+
+## License
+
+Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter mais detalhes.
+
