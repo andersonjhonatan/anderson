@@ -1,4 +1,4 @@
- # <p align='center'><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />"Eai, Bem-vindo ao meu github"</p>
+ # <p align='center'><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />Eai, Bem-vindo ao meu github</p>
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=21D19F&height=180&section=header&text=Anderson%20-%20Full%20Stack%20Developer%20&fontSize=34&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
