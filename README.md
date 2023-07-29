@@ -32,11 +32,8 @@ Enquanto estou em busca de oportunidades de emprego no desenvolvimento de softwa
 
 > "Existem duas maneiras de escrever programas sem erros; apenas a terceira funciona." - Anderson
 
-## Contact
-
-- E-mail: ajhonatan76@gmail.com
-- GitHub: [@andersonjhonatan](https://github.com/andersonjhonatan)
-- Linkedin: [@anderson-jhonatan](https://www.linkedin.com/in/anderson-jhonatan/)
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_anderson.jhonatan/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anderson-jhonatan/) 
 
 ## How to Reach Me
 
