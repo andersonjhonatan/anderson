@@ -63,7 +63,7 @@ Por enquanto estou em busca de oportunidades de emprego no desenvolvimento de so
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-jhonatan/)
 
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+<img width=100% src="https://capsule-render.vercel.app/api?type=wave&color=8E2DE2&height=300&section=header&text=Muito%20obrigado!&fontSize=90" />
 ## License
 
 Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter mais detalhes.
