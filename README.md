@@ -9,7 +9,7 @@ const anderson = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Typescript", "Python", "Java"],
     askMeAbout: ["web dev", "tech", "app dev"],
-    Academic_education: {
+    academic_education: {
             Faculdade: "Analista de Sistema",
             Cursos:["Trybe","RocktSeat","Origamid"],
                   },
