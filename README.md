@@ -2,33 +2,64 @@
 
 >  <p align='center'>"Existem duas maneiras de escrever programas sem erros; apenas a terceira funciona." - Anderson</p>
 > 
-<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        .profile {
+            display: flex;
+            align-items: center;
+            gap: 20px;
+            max-width: 600px;
+            margin: 0 auto;
+        }
+        .profile-image {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            overflow: hidden;
+        }
+        .profile-image img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+    </style>
+</head>
+<body>
+    <div class="profile">
+        <div class="profile-info">
+            <h2>anderson</h2>
+            <p>Pronouns: He | Him</p>
+            <p>Code: Javascript, Typescript, Python, Java</p>
+            <p>Ask Me About: Web Dev, Tech, App Dev</p>
+            <p>Technologies:</p>
+            <ul>
+                <li>Frontend: React, NextJS</li>
+                <li>CSS: Tailwind, Styled Components, Bootstrap</li>
+                <li>Backend: Node, Express, Flask</li>
+                <li>DevOps: AWS, Docker🐳</li>
+                <li>Databases: Mongo, MySql</li>
+                <li>Misc: Firebase</li>
+            </ul>
+            <p>Architecture:</p>
+            <ul>
+                <li>Serverless Architecture</li>
+                <li>Progressive web applications</li>
+                <li>Single page applications</li>
+            </ul>
+            <p>Fun Fact: "There are two ways to write error-free programs; only the third one works"</p>
+        </div>
+        <div class="profile-image">
+            <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" alt="Developer">
+        </div>
+    </div>
+</body>
+</html>
 
-```typescript
-const anderson = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Python", "Java"],
-    askMeAbout: ["web dev", "tech", "app dev"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "NextJS"],
-            css: ["Tailwind", "Styled Components", "bootstrap"]
-        },
-        backEnd: {
-            js: ["node", "express"],
-            python: ["flask"]
-        },
-        devOps: ["AWS", "Docker🐳"],
-        databases: ["mongo", "MySql"],
-        misc: ["Firebase"]
-    },
-    architecture: ["Serverless Architecture",
-                   "Progressive web applications",
-                   "Single page applications"],
-    funFact: "There are two ways to write error-free
-              programs; only the third one works"
-}
-```
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
