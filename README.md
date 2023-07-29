@@ -24,7 +24,7 @@ const anderson = {
     funFact: "There are two ways to write error-free programs; only the third one works"
 }
 ```
-<img align="center rigth" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
+<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
