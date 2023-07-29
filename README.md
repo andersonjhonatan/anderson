@@ -1,4 +1,4 @@
- # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" /> Eai, Bem-vindo ao meu github
+ # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" /> <p align='center'>"Eai, Bem-vindo ao meu github"</p>
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=21D19F&height=180&section=header&text=Anderson%20-%20Full%20Stack%20Developer%20&fontSize=34&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
@@ -48,7 +48,8 @@ const anderson = {
   <img alt="typescript" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
   <img alt="rtl" height="45" width="55" src="https://testing-library.com/img/octopus-64x64.png" />
   <img alt="mong-db" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
- <img alt="mong-db" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+  <img alt="mong-db" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+  <img alt="mong-db" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" />
 </div>
 
 ## ⚡ Current Project
