@@ -21,14 +21,14 @@ const anderson = {
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentProject: "I am developing Extension for NetSuite using SuiteScript2.0",
     funFact: "There are two ways to write error-free programs; only the third one works"
-};
+};````
 
 
-## Current Project
+# Current Project
 
 Enquanto estou em busca de oportunidades de emprego no desenvolvimento de software, estou focado em aprimorar minhas habilidades técnicas e teóricas para estar pronto para enfrentar os desafios que surgirem na minha futura carreira.
 
-## Fun Fact
+# Fun Fact
 
 > "Existem duas maneiras de escrever programas sem erros; apenas a terceira funciona." - Anderson
 
