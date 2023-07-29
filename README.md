@@ -40,7 +40,7 @@ Enquanto estou em busca de oportunidades de emprego no desenvolvimento de softwa
 ![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=8E2DE2)
 ![Insomnia](https://img.shields.io/badge/Insomnia-grey?style=for-the-badge&logo=insomnia&logoColor=white&labelColor=8E2DE2) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=8E2DE2)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-grey.svg?style=for-the-badge&logo=typescript&logoColor=white&labelColor=8E2DE2)
 ![Next JS](https://img.shields.io/badge/Next-grey?style=for-the-badge&logo=next.js&logoColor=white&labelColor=8E2DE2) 
 <br>
 ![Figma](https://img.shields.io/badge/figma-grey.svg?style=for-the-badge&logo=figma&logoColor=white&labelColor=8E2DE2) 
