@@ -4,7 +4,7 @@
 const anderson = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Typescript", "Python", "Java"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    askMeAbout: ["web dev", "tech", "app dev"],
     technologies: {
         frontEnd: {
             js: ["React", "NextJS"],
