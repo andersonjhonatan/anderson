@@ -48,9 +48,8 @@ const anderson = {
   <img alt="typescript" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
   <img alt="rtl" height="45" width="55" src="https://testing-library.com/img/octopus-64x64.png" />
   <img alt="mong-db" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
+ <img alt="mong-db" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 </div>
-
-
 
 ## ⚡ Current Project
 
