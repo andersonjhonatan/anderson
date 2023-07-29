@@ -3,7 +3,7 @@
 ```typescript
 const anderson = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Python", "Java", "php"],
+    code: ["Javascript", "Typescript", "Python", "Java"],
     askMeAbout: ["web dev", "tech", "app dev", "photography"],
     technologies: {
         frontEnd: {
