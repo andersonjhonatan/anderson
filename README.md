@@ -31,28 +31,28 @@ const anderson = {
 ```
 
 # 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=21D19F)
-![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=21D19F)
-![Insomnia](https://img.shields.io/badge/Insomnia-grey?style=for-the-badge&logo=insomnia&logoColor=white&labelColor=21D19F) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=21D19F)
-![TypeScript](https://img.shields.io/badge/typescript-grey.svg?style=for-the-badge&logo=typescript&logoColor=white&labelColor=21D19F)
-![Next JS](https://img.shields.io/badge/Next-grey?style=for-the-badge&logo=next.js&logoColor=white&labelColor=21D19F) 
+![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=black&labelColor=21D19F)
+![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=black&labelColor=21D19F)
+![Insomnia](https://img.shields.io/badge/Insomnia-grey?style=for-the-badge&logo=insomnia&logoColor=black&labelColor=21D19F) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=black&labelColor=21D19F)
+![TypeScript](https://img.shields.io/badge/typescript-grey.svg?style=for-the-badge&logo=typescript&logoColor=black&labelColor=21D19F)
+![Next JS](https://img.shields.io/badge/Next-grey?style=for-the-badge&logo=next.js&logoColor=black&labelColor=21D19F) 
 <br>
-![Figma](https://img.shields.io/badge/figma-grey.svg?style=for-the-badge&logo=figma&logoColor=white&labelColor=21D19F) 
-![bootstrap](https://img.shields.io/badge/-bootstrap-grey?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=21D19F)
-![Styled Components](https://img.shields.io/badge/styled--components-grey?style=for-the-badge&logo=styled-components&logoColor=white&labelColor=21D19F)
-![node](https://img.shields.io/badge/-node-grey?style=for-the-badge&logo=node.js&logoColor=white&labelColor=21D19F)
+![Figma](https://img.shields.io/badge/figma-grey.svg?style=for-the-badge&logo=figma&logoColor=black&labelColor=21D19F) 
+![bootstrap](https://img.shields.io/badge/-bootstrap-grey?style=for-the-badge&logo=bootstrap&logoColor=black&labelColor=21D19F)
+![Styled Components](https://img.shields.io/badge/styled--components-grey?style=for-the-badge&logo=styled-components&logoColor=black&labelColor=21D19F)
+![node](https://img.shields.io/badge/-node-grey?style=for-the-badge&logo=node.js&logoColor=black&labelColor=21D19F)
 <br>
-![Trello](https://img.shields.io/badge/Trello-grey.svg?style=for-the-badge&logo=Trello&logoColor=white&labelColor=21D19F)
-![mongodb](https://img.shields.io/badge/-mongodb-grey?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=21D19F)
-![firebase](https://img.shields.io/badge/-firebase-grey?style=for-the-badge&logo=firebase&logoColor=white&labelColor=21D19F)
-![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=21D19F)
-![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=21D19F)
+![Trello](https://img.shields.io/badge/Trello-grey.svg?style=for-the-badge&logo=Trello&logoColor=black&labelColor=21D19F)
+![mongodb](https://img.shields.io/badge/-mongodb-grey?style=for-the-badge&logo=mongodb&logoColor=black&labelColor=21D19F)
+![firebase](https://img.shields.io/badge/-firebase-grey?style=for-the-badge&logo=firebase&logoColor=black&labelColor=21D19F)
+![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=black&labelColor=21D19F)
+![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=black&labelColor=21D19F)
 <br>
-![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=21D19F)
-![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=21D19F)
-![Docker](https://img.shields.io/badge/docker-grey.svg?style=for-the-badge&logo=docker&logoColor=white&labelColor=21D19F)
-![Stylus](https://img.shields.io/badge/stylus-grey.svg?style=for-the-badge&logo=stylus&logoColor=white&labelColor=21D19F) 
+![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=black&labelColor=21D19F)
+![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=black&labelColor=21D19F)
+![Docker](https://img.shields.io/badge/docker-grey.svg?style=for-the-badge&logo=docker&logoColor=black&labelColor=21D19F)
+![Stylus](https://img.shields.io/badge/stylus-grey.svg?style=for-the-badge&logo=stylus&logoColor=black&labelColor=21D19F) 
 
 ## ⚡ Current Project
 
