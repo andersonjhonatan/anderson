@@ -49,7 +49,7 @@ const anderson = {
 ![Docker](https://img.shields.io/badge/docker-grey.svg?style=for-the-badge&logo=docker&logoColor=white&labelColor=8E2DE2)
 ![Stylus](https://img.shields.io/badge/stylus-grey.svg?style=for-the-badge&logo=stylus&logoColor=white&labelColor=8E2DE2) 
 
-## Current Project
+## ⚡ Current Project
 
 Enquanto estou em busca de oportunidades de emprego no desenvolvimento de software, estou focado em aprimorar minhas habilidades técnicas e teóricas para estar pronto para enfrentar os desafios que surgirem na minha futura carreira.
 
