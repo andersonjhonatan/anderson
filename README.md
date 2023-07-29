@@ -1,6 +1,6 @@
 # <p align='center'> Anderson - Full Stack Developer and Tech Enthusiast</p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8E2DE2&height=180&section=header&text=AndersonFull%20End%20Developer&fontSize=34&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8E2DE2&height=180&section=header&text=Anderson Full%20End%20Developer&fontSize=34&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
 >  <p align='center'>"Existem duas maneiras de escrever programas sem erros; apenas a terceira funciona." - Anderson</p>
 > 
