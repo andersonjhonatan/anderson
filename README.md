@@ -1,4 +1,4 @@
-# Anderson - um desenvolvedor de software com paixão por desenvolvimento web, tecnologia, desenvolvimento de aplicativos e fotografia. Gosto de explorar e aprender sobre novas tecnologias e frameworks.
+# Anderson - Full Stack Developer and Tech Enthusiast.
 
 ```typescript
 const anderson = {
