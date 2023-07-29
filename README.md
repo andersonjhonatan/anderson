@@ -29,9 +29,28 @@ const anderson = {
 
 Enquanto estou em busca de oportunidades de emprego no desenvolvimento de software, estou focado em aprimorar minhas habilidades técnicas e teóricas para estar pronto para enfrentar os desafios que surgirem na minha futura carreira.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_anderson.jhonatan/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-jhonatan/)
+<!--START_SECTION:waka-->
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    41 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.65% 
+🌆 Daytime    83 commits     ██████░░░░░░░░░░░░░░░░░░░   25.62% 
+🌃 Evening    172 commits    █████████████░░░░░░░░░░░░   53.09% 
+🌙 Night      28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.64%
+
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday       55 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.71% 
+Tuesday      23 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.82% 
+Wednesday    25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.5% 
+Thursday     14 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.76% 
+Friday       16 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.44% 
+Saturday     70 commits     ██████░░░░░░░░░░░░░░░░░░░   23.81% 
+Sunday       91 commits     ███████░░░░░░░░░░░░░░░░░░   30.95%
+
+```
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
@@ -56,6 +75,10 @@ Enquanto estou em busca de oportunidades de emprego no desenvolvimento de softwa
 ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
 ![Docker](https://img.shields.io/badge/docker-grey.svg?style=for-the-badge&logo=docker&logoColor=white&labelColor=8E2DE2)
 ![Stylus](https://img.shields.io/badge/stylus-grey.svg?style=for-the-badge&logo=stylus&logoColor=white&labelColor=8E2DE2) 
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_anderson.jhonatan/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-jhonatan/)
 
 ## License
 
