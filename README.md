@@ -1,4 +1,4 @@
-# Anmol - Software Developer and Tech Enthusiast
+# Anderson - Software Developer and Tech Enthusiast
 
 ```typescript
 const anderson = {
