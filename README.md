@@ -1,4 +1,4 @@
-# Anderson - Full Stack Developer and Tech Enthusiast.
+# [<p align='center'> Anderson - Full Stack Developer and Tech Enthusiast</p>]
 
 [<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">](https://t.me/voko_aleksey)
 > "Existem duas maneiras de escrever programas sem erros; apenas a terceira funciona." - Anderson
