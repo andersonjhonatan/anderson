@@ -15,7 +15,7 @@ const anderson = {
                   },
     technologies: {
         frontEnd: {
-            js: ["React", "NextJS"],
+            js: ["React", "NextJS", "VueJS"],
             css: ["Tailwind", "Styled Components", "bootstrap"]
         },
         backEnd: {
